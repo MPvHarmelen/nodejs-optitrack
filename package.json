@@ -1,0 +1,24 @@
+{
+  "name": "optirx",
+  "version": "0.1.0",
+  "description": "A pure Javascript library to receive motion capture data from OptiTrack Streaming Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpvharmelen/nodejs-optitrack.git"
+  },
+  "keywords": [
+    "optitrack",
+    "motive",
+    "natnet"
+  ],
+  "author": "Martin van Harmelen <Martin@vanharmelen.com>",
+  "license": "MIT",
+  "url": "https://github.com/mpvharmelen/nodejs-optitrack/blob/master/LICENSE",
+  "bugs": {
+    "url": "https://github.com/mpvharmelen/nodejs-optitrack/issues"
+  }
+}
